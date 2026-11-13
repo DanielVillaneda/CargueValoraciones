@@ -1,0 +1,2088 @@
+{
+    "valido": true,
+    "sede": "CENTRAL URBANA",
+    "grado": "SEGUNDO",
+    "grupo": "01",
+    "grado_texto": "SEGUNDO - 01",
+    "fecha_reporte": "13\/11\/2026 15:34",
+    "periodo": "DF",
+    "areas": [
+        {
+            "codigo_asignatura": null,
+            "asignatura": "ARTISTICA"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "CASTELLANO"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "CIENCIAS NATURALES"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "CIENCIAS SOCIALES"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "EDUCACION FISICA"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "ETICA Y CIVISMO"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "INFORMATICA"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "INGLES"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "MATEMATICAS"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "RELIGION"
+        },
+        {
+            "codigo_asignatura": null,
+            "asignatura": "COMPORTAMIENTO"
+        }
+    ],
+    "total_estudiantes": 27,
+    "estudiantes": [
+        {
+            "num_lista": 1,
+            "identificacion": null,
+            "nombre": "ALVAREZ DUARTE MARIA ISABELLA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7.4,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 2,
+            "identificacion": null,
+            "nombre": "CORTES TAVERA LUZ ALEXANDRA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 3,
+            "identificacion": null,
+            "nombre": "DIAZ BENAVIDES LEAH CELESTE",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 4,
+            "identificacion": null,
+            "nombre": "DIAZ PATIO EILIN YULIETH",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 7.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7.1,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 7.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.4,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 5,
+            "identificacion": null,
+            "nombre": "GARCIA CEBALLES NATALIA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 8.7,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 6,
+            "identificacion": null,
+            "nombre": "GRATEROL ZAMBRANO THIAGO SAMUEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 7,
+            "identificacion": null,
+            "nombre": "GUATAVITA CUELLAR LIZETH MARIANA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 8,
+            "identificacion": null,
+            "nombre": "GUATAVITA MURILLO JUAN JOSE",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.1,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.4,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 9,
+            "identificacion": null,
+            "nombre": "GUTIERREZ MARTINEZ AXEL MAXIMILIANO",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6.4,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 7.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 8.8,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 10,
+            "identificacion": null,
+            "nombre": "JARA MARTINEZ PAULA MILENA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 7.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 7.2,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 11,
+            "identificacion": null,
+            "nombre": "LEMUS ALVAREZ JEIDY YISLEY",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.8,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 12,
+            "identificacion": null,
+            "nombre": "MARTINEZ FLORIANO EZEQUIEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 13,
+            "identificacion": null,
+            "nombre": "MONROY SANCHEZ VALERIA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.2,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 14,
+            "identificacion": null,
+            "nombre": "PARRA LEAL DEIMER ESTIBEN",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 15,
+            "identificacion": null,
+            "nombre": "PAZ SINISTERRA JUSEPH DANIEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 16,
+            "identificacion": null,
+            "nombre": "PENAGOS GUTIERREZ YEIMY LUCIANA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 9.1,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 17,
+            "identificacion": null,
+            "nombre": "PEREZ FIERRO GABRIEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 8.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9.1,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.8,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 18,
+            "identificacion": null,
+            "nombre": "PUENTES FIERRO EMMANUEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 19,
+            "identificacion": null,
+            "nombre": "QUIMBAYA CALDERON DYLAN STIVEN",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 10,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 20,
+            "identificacion": null,
+            "nombre": "ROA RAMOS MAICOL DANIEL",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6.6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 21,
+            "identificacion": null,
+            "nombre": "SANCHEZ IPILA JORDAN DAVID",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 6,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.3,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 22,
+            "identificacion": null,
+            "nombre": "TOCORA CARDOZO ISABELLA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 23,
+            "identificacion": null,
+            "nombre": "TORRES SANCHEZ EVANS SANTIAGO",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.1,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 24,
+            "identificacion": null,
+            "nombre": "VARGAS VALENCIA BRIHANNA CATTLEYA",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 7.8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.2,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 25,
+            "identificacion": null,
+            "nombre": "VICTORIA MUÑOZ THIAGO",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 26,
+            "identificacion": null,
+            "nombre": "VITOVIZ BARRAGAN MATIAS",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 9.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9.1,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        },
+        {
+            "num_lista": 27,
+            "identificacion": null,
+            "nombre": "YOSSA PEÑA WILLIAM ANDRES",
+            "notas": [
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ARTISTICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CASTELLANO",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS NATURALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "CIENCIAS SOCIALES",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "EDUCACION FISICA",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "ETICA Y CIVISMO",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INFORMATICA",
+                    "nota": 8,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "INGLES",
+                    "nota": 7.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "MATEMATICAS",
+                    "nota": 8.4,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "RELIGION",
+                    "nota": 8.5,
+                    "escala": "cuantitativa"
+                },
+                {
+                    "codigo_asignatura": null,
+                    "asignatura": "COMPORTAMIENTO",
+                    "nota": 9,
+                    "escala": "cuantitativa"
+                }
+            ],
+            "estado": null,
+            "periodo": "DF"
+        }
+    ],
+    "errores": [],
+    "avisos": [
+        "La plantilla no tiene columna de identificación del estudiante (IDENTIFICACION \/ DOCUMENTO \/ ID).",
+        "La plantilla no trae códigos de asignatura (se esperan en la fila debajo de los títulos de las áreas)."
+    ]
+}
