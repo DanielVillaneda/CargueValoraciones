@@ -76,7 +76,7 @@ Se lee solo la **primera hoja**.
   "estudiantes": [
     {
       "num_lista": 1,
-      "identificacion": "1000000000",
+      "identificacion": null,
       "nombre": "ALVAREZ DUARTE MARIA ISABELLA",
       "notas": [
         { "codigo_asignatura": "ASG01", "asignatura": "ARTISTICA", "nota": 10, "escala": "cuantitativa" }
