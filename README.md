@@ -70,7 +70,7 @@ Se lee solo la **primera hoja**.
   "fecha_reporte": "13/11/2026 14:05",
   "periodo": "DF",
   "areas": [
-    { "codigo_asignatura": "ASG01", "asignatura": "ARTISTICA" }
+    { "codigo_asignatura": null, "asignatura": "ARTISTICA" }
   ],
   "total_estudiantes": 27,
   "estudiantes": [
@@ -79,7 +79,7 @@ Se lee solo la **primera hoja**.
       "identificacion": null,
       "nombre": "ALVAREZ DUARTE MARIA ISABELLA",
       "notas": [
-        { "codigo_asignatura": "ASG01", "asignatura": "ARTISTICA", "nota": 10, "escala": "cuantitativa" }
+        { "codigo_asignatura": null, "asignatura": "ARTISTICA", "nota": 10, "escala": "cuantitativa" }
       ],
       "periodo": "DF",
       "estado": null
